@@ -1,0 +1,9 @@
+#load "dynarray.cmo"
+#load "digraph.cmo"
+#load "fst.cmo"
+#load "soundex.cmo"
+
+open Dynarray
+open Digraph
+open Fst
+open Soundex
